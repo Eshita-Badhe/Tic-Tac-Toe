@@ -96,6 +96,6 @@ function result()
     result.appendChild(reset);
     reset.onclick = () => 
     {
-        location.href="tictactoe.html";
+        location.href="index.html";
     }
 }
